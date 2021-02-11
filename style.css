@@ -1,0 +1,17 @@
+body {
+   background:linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+   padding: 30; 
+}
+p {
+   text-align: center;
+    font-size: 15;
+    margin: 5;
+    font-family: arial;
+    background: white;
+    font-weight: bolder;
+    box-shadow: 10px 5px 0px black;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    width: 250; 
+}
